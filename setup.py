@@ -16,7 +16,7 @@ with open('requirements.txt', 'r') as infile:
 
 setup(
     name="pep508_parser",
-    version="2019.2",
+    version="2019.3",
     description="A parser for the PEP508 dependency specification.",
     long_description=long_description,
     long_description_content_type="text/markdown",

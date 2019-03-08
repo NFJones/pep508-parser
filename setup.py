@@ -16,8 +16,8 @@ with open('requirements.txt', 'r') as infile:
 
 setup(
     name="pep508_parser",
-    version="2019.1",
-    description="Generate python bitbake recipes from pypi metadata.",
+    version="2019.2",
+    description="A parser for the PEP508 dependency specification.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/NFJones/pep508-parser",
